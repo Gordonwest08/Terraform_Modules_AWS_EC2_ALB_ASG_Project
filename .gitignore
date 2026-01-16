@@ -28,4 +28,4 @@ terraform.rc
 *.log
 *.so
 *.tar.gz
-crash.log
+crash.log.terraform/
