@@ -1,6 +1,6 @@
 variable "instance_type" {
   type        = string
-  description = "EC2 instance type"
+  description = "EC2 instance type"  
 }
 
 variable "environment" {
@@ -11,3 +11,5 @@ variable "environment" {
 variable "aws_region" {
   type = string
 }
+
+# Test CI pipeline
